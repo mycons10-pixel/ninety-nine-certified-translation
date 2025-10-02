@@ -1,0 +1,37 @@
+<head>
+  <meta charset="utf-8">
+  <title>مكتب تسعة وتسعون للترجمة المعتمدة – الرياض</title>
+  <meta name="description" content="مكتب ترجمة معتمد بالرياض يقدم خدمات الترجمة القانونية والطبية والتجارية مع قبول رسمي.">
+  <style>
+    body {
+      font-family: 'Tahoma', sans-serif;
+      line-height: 1.8;
+      margin: 20px;
+      background: #fafafa;
+      color: #222;
+    }
+    h1, h2 {
+      color: #007acc;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    li {
+      margin: 8px 0;
+    }
+    a {
+      text-decoration: none;
+      color: #0055aa;
+      font-weight: bold;
+    }
+    a:hover {
+      color: #ff6600;
+    }
+    footer {
+      margin-top: 30px;
+      font-size: 14px;
+      color: #555;
+    }
+  </style>
+</head>
